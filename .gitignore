@@ -1,0 +1,14 @@
+# Frontend (React / Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Backend (.NET)
+backend/**/bin/
+backend/**/obj/
+backend/**/appsettings.Development.json
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
